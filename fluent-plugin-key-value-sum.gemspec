@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "fluent-plugin-key-value-sum"
   spec.authors       = ["Masayuki DOI"]
   spec.email         = ["dotquasar@gmail.com"]
-  spec.description   = "Amazon DynamoDB atomic add plugin"
+  spec.description   = "plugin for count same key's value"
   spec.summary       = spec.description
   spec.homepage      = "https://github.com/mdoi/fluent-plugin-key-value-sum"
 
